@@ -1,0 +1,6 @@
+{
+    "PHP_MODULES": ["cli"],
+    "PHP_EXTENSIONS": ["mysql","mysqli","curl","gd","pdo","pdo_pgsql","pdo_mysql","pdo_sqlite","pgsql"],
+    "ADDITIONAL_PREPROCESS_CMDS": ["php app/htdocs/index.php migrations"]
+}
+
