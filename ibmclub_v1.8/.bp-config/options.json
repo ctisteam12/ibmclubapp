@@ -1,0 +1,3 @@
+ {
+     "PHP_EXTENSIONS": ["mysql","mysqli","curl","gd","pdo","pdo_pgsql","pdo_mysql","pdo_sqlite"]
+ }
